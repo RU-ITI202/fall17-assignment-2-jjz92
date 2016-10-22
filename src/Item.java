@@ -1,6 +1,6 @@
 
 public class Item {
-	private int barcode;
+	private int barcode; //added comment for github demo
 	private String name;
 	private double cost;
 	private char category; //3 category Food 'A', Clothes 'B', Other 'C'
