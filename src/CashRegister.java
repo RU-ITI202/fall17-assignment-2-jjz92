@@ -20,6 +20,11 @@ public class CashRegister {
 		// TODO Auto-generated method stub
 		
 	}
+	
+	
+	public void printItemsByCategory(char category) {
+		// print all items for given category
+	}
 
 	public void pringAllItems() {
 		// TODO Auto-generated method stub

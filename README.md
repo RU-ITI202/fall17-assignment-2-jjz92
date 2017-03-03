@@ -78,18 +78,20 @@ y
 Good Bye Have a Nice Day! 
 ``` 
 
+Make sure you create helper methods instead of putting entire testing code in Main method for getting options and calling appropriate function once you receive the options. Before you start working on user input just implement the tester methods as provided in the starter code. Once you have everything working enable the user input and comment out the tester code.
  
 ## Total Possible Points: 100
  
 1. Program runs as submitted - 5 points
-2. Program accepts all valid option (1-6) only and handle errors properly - 10 points
+2. Program accepts all valid option (1-7) only and handle errors properly - 10 points
 3. Program adds new Items - 10 points
 4. Program update existing Item - 10 points
 5. Program delete existing Item - 10 points
 6. Program display existing Item - 10 points
-7. Program display all items in proper order category A first, name, barcode - 15 points
-8. Program exits without problems with proper message - 5 points
-9. Code is well documented using Javadocs - 10 points
-10. Program handles errors properly - 15 points
+7. Program display all items properly  - 10 points
+8. Program display only selected category items - 10 points
+9. Program exits without problems with proper message - 5 points
+10. Code is well documented using Javadocs - 10 points
+11. Program handles errors properly - 10 points
 	* Shows error for user input (validate double, string, char, etc)
 	* Shows error when Item not found or invalid barcode entered
